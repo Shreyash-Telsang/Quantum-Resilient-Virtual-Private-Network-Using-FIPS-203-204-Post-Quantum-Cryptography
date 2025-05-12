@@ -1,0 +1,30 @@
+# Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Cryptography
+# liboqs-python==0.7.2
+cryptography==41.0.3
+
+# Web Scraping and Processing
+beautifulsoup4==4.12.2
+requests==2.31.0
+yt-dlp==2023.7.6
+
+# Utilities
+python-dotenv==1.0.0
+urllib3==2.0.4
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+soupsieve==2.4.1
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Development
+black==23.7.0
+flake8==6.1.0
+isort==5.12.0
+mypy==1.5.1 
